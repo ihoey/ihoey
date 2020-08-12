@@ -1,4 +1,4 @@
-[![hello~](./hello.gif)](https://blog.ihoey.com)
+[![hello~](https://github.com/ihoey/ihoey/raw/master/hello.gif)](https://blog.ihoey.com)
 
 [![ihoey](https://count.getloli.com/get/@ihoey)](https://blog.ihoey.com)
 
